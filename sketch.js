@@ -34,7 +34,7 @@ function draw() {
   //add styles here
   fill(255,255,254);
   stroke("black");
-  text("Food remaining: "+ foods,170,200);
+  text("Food remaining: "+ foods,170,170);
   textSize(13);
   text("Note: Press UP_ARROW key to feed Drago Milk",130,10,300,20)
 }
